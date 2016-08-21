@@ -1,0 +1,23 @@
+{
+	"name" : "log-timer",
+	"version" : "0.0.1",
+	"description" : "Log your app timing.",
+	"keywords" : "modules, console, log, time, timer, tick, util",
+	"homepage" : "https://github.com/smituk/log-timer",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/smituk/log-timer"
+    },
+	"license" : "MIT",
+	"main" : "index.js",
+    "engines": {
+        "node": ">= 6.0"
+    },
+	"author" : "Sergey Stamat <sergey.stamat@gmail.com> (http://stam.at/)",
+	"contributors" : [
+		"Sergey Stamat <sergey.stamat@gmail.com> (http://stam.at/)"
+	],
+	"scripts" : {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
